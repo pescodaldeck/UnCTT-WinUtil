@@ -30,7 +30,7 @@ Using CTT Windows Utility may void your warranty. Proceed with caution
  ### 'I use Win11 btw'
  + Clone the repo with `git clone https://github.com/pescodaldeck/UnCTT-WinUtil.git`
  + Open PowerShell
- + install [PS2EXE](https://guthib.com)
+ + install [PS2EXE](https://www.powershellgallery.com/packages/ps2exe/1.0.4)
  + Build the executable using the following command: `ps2exe -inputFile /path/to/winutil.ps1 -outputFile /desired/path/to/winutil.exe`
  + OPTIONAL: If you want, I've included a fitting image so that the .exe will look fine 'n dandy B), just add to the aforementioned command the `-iconFile /path/to/src/ctt.ico` parameter
 

@@ -36,3 +36,7 @@ Using CTT Windows Utility may void your warranty. Proceed with caution
 
  ## Usage
  Just like the original script on Chris' website, you will need to run the executable as Administrator. After all, it's just running a carbon copy of CTT's script (as of 4/27/2024)
+
+ ## RELEASE WARNING
+ I am still learning how GitHub stores Release files in it's repository. For now, version 1.0 of UnCTT WinUtil is effectively "lost media". I am working on a better alternative for Release hosting.
+ Don't worry, you're not missing out on anything, it only seemed fair to me to tell y'all :)

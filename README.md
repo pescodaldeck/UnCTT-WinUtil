@@ -25,7 +25,7 @@ Using CTT Windows Utility may void your warranty. Proceed with caution
  + The 'I use Win11 btw' method
  
  ### Lazy method
- Download the prebuilt executable from the repo's [Release](https://github.com/pescodaldeck/UnCTT-WinUtil/releases/download/Executable%2FBinary/UnCTT.WinUtil.exe) page
+ Download the prebuilt executable from the repo's [Release](https://github.com/pescodaldeck/UnCTT-WinUtil/releases) page
 
  ### 'I use Win11 btw'
  + Clone the repo with `git clone https://github.com/pescodaldeck/UnCTT-WinUtil.git`

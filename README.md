@@ -1,5 +1,5 @@
  # Unofficial ChrisTitusTech's Windows Utility Executable
- "A practical alternative to CTT's script shortcut. Now with a deepfried icon!"
+ "Unofficial build of Chris Titus Tech's Windows Utility's executable. Now with a deepfried icon!"
 
  ```
 DISCLAIMER:
